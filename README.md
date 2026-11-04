@@ -1,6 +1,6 @@
 Tecnologias Utilidas
 
-vscode
-python
+vscode,
+python e
 git
 
